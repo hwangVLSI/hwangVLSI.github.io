@@ -9,7 +9,7 @@ nav_order: 4
 
 # 🧠 Chip Gallery
 
-A showcase of my custom chip designs and FPGA prototypes.  
+A showcase of my custom chip prototypes.  
 Click each link to explore publications, data, or design details.
 
 ---
@@ -20,8 +20,8 @@ Waiting...
     <div class="card shadow-sm mb-4">
       <img src="{{ '/assets/img/chip1.jpg' | relative_url }}" class="card-img-top" alt="Chip 1 Image">
       <div class="card-body text-center">
-        <h5 class="card-title">CERN eFPGA Data Readout Chip</h5>
-        <a href="https://arxiv.org/abs/2401.12345" target="_blank" class="btn btn-primary">View Details</a>
+        <h5 class="card-title">Waiting...</h5>
+        <a href="https://arxiv.org/abs/XXXX" target="_blank" class="btn btn-primary">View Paper</a>
       </div>
     </div>
   </div>
@@ -30,8 +30,8 @@ Waiting...
     <div class="card shadow-sm mb-4">
       <img src="{{ '/assets/img/chip2.jpg' | relative_url }}" class="card-img-top" alt="Chip 2 Image">
       <div class="card-body text-center">
-        <h5 class="card-title">RISC-V SoC for Real-time Acceleration</h5>
-        <a href="https://doi.org/10.1109/TCSI.2025.xxxxx" target="_blank" class="btn btn-primary">View Paper</a>
+        <h5 class="card-title">Waiting...</h5>
+        <a href="https:/TCSI.2025.xxxxx" target="_blank" class="btn btn-primary">View Paper</a>
       </div>
     </div>
   </div>
