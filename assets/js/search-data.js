@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-chip-gallery",
+          title: "Chip Gallery",
+          description: "A collection of custom chips and FPGA prototypes.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/chip-gallery/";
+          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Materials for courses you taught. Replace this text with your description.",
