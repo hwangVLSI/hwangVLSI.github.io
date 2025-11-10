@@ -2,7 +2,7 @@
 layout: page
 title: Chip Gallery
 permalink: /chip-gallery/
-description: A collection of custom chips and FPGA prototypes.
+description: A collection of custom chips prototypes.
 nav: true
 nav_order: 4
 ---
