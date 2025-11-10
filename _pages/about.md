@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>KU Leuven</a>.PhD Student.
 
 profile:
   align: right
@@ -19,11 +19,24 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: # leave blank to include all the news in the `_news` folder
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my homepage! 👋  
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a **[Ph.D. student](https://www.kuleuven.be/wieiswie/en/person/00183866)** at **KU Leuven**, Belgium, in the **ESAT–ADVISE** group (supervised by **[Prof. Jeffery Prinzie](https://www.kuleuven.be/wieiswie/en/person/00093261)**).  
+My current research focuses on **embedded FPGA (eFPGA) and SoC architectures**, with a special emphasis on **CERN readout and data processing circuits**.  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before joining KU Leuven, I received my **M.Phil. in Microelectronics** in **2025** from **The Hong Kong University of Science and Technology (Guangzhou)**,  
+supervised by **[Prof. Renjing Xu](https://scholar.google.com.hk/citations?user=Mu__bJEAAAAJ&hl=zh-CN&oi=ao)** and **[Prof. Zhongrui Wang](https://scholar.google.com/citations?user=Ofl3nUsAAAAJ&hl=en)**.  
+I obtained my **B.Eng. in Microelectronics** in **2023** from **Harbin Institute of Technology**,  
+and conducted a **remote research internship** in **2022** at **The University of Hong Kong**, under the supervision of **[Prof. Zhongrui Wang](https://scholar.google.com/citations?user=Ofl3nUsAAAAJ&hl=en)**.  
+
+My interests include:
+- eFPGA architecture design  
+- Reconfigurable computing and SoC integration  
+- Hardware acceleration for data acquisition and reconstruction systems (CERN)  
+- Memristor-based Computing-in-Memory (CIM) architecture design  
+
+I am always open to discussions and collaborations — feel free to reach out!
+
