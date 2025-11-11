@@ -243,7 +243,7 @@ terser:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Wang, Wang(Co-first author)]
+  last_name: [Wang, Wang (Co-first author)]
   first_name: [Hao, H.]
 
   style: apa
