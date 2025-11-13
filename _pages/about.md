@@ -28,7 +28,7 @@ Before joining KU Leuven, I received my M.Phil. in Microelectronics in 2025 from
 My interests include:
 - eFPGA architecture design  
 - Reconfigurable computing and SoC integration  
-- Hardware acceleration for data acquisition and reconstruction systems (CERN)  
+- Hardware acceleration for data acquisition and reconstruction systems  
 - Memristor-based Computing-in-Memory (CIM) architecture design  
 
 I am always open to discussions and collaborations — feel free to reach out!
